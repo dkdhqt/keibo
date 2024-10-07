@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--  setting  -->
+        <!--  margin  -->
+        <dimen name="setting_fragment_main_margin_top">30dp</dimen>
+        <dimen name="setting_fragment_main_margin_horizontal">30dp</dimen>
+        <!--  textsize  -->
+        <dimen name="setting_fragment_main_title_text_size">24sp</dimen>
+        <dimen name="setting_fragment_sub_title_text_size">20sp</dimen>
+
+</resources>
